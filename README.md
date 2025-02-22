@@ -6,7 +6,8 @@
 
 This is a web-based Sudoku game designed to provide an engaging and interactive puzzle-solving experience. Play online and challenge yourself with different difficulty levels. 
 
-![video alt](s7.mp4)
+![alt text](s7.mp4) 
+
 
 #### Features ✨:
  - 🧩 Classic Sudoku gameplay
