@@ -1,12 +1,10 @@
 # Sudoku Game 🧠🤔🔢
 
-
-
 #### Overview:
 
 This is a web-based Sudoku game designed to provide an engaging and interactive puzzle-solving experience. Play online and challenge yourself with different difficulty levels. 
 
-![alt text](s7.mp4) 
+https://github.com/user-attachments/assets/fa8ba367-b0ff-4eab-99d0-5a5da20911e3
 
 
 #### Features ✨:
