@@ -20,7 +20,7 @@ This is a web-based Sudoku game designed to provide an engaging and interactive 
 
 ##### Play Now ▶️🎮:
 
-You can access the game online at: Sudoku Game
+You can access the game online at: https://dojawael.github.io/Sudoku-game/
 
 #### How to Play ⚙️:
 
