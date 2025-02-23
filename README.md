@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/fa8ba367-b0ff-4eab-99d0-5a5da20911e3
 #### Features ✨:
  - 🧩 Classic Sudoku gameplay
 
- - 🎚️ Multiple difficulty levels
+ - 📊 Multiple difficulty levels
 
  - ⏳ Timer to track your progress
 
